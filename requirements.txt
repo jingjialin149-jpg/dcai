@@ -1,0 +1,6 @@
+discord.py
+google-genai
+edge-tts
+discord-ext-voice-recv
+PyNaCl
+static-ffmpeg
